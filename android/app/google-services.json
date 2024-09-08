@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "827421952722",
+    "project_id": "gada-electronics-cf23f",
+    "storage_bucket": "gada-electronics-cf23f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827421952722:android:7d7f22d6d8ece48c567b0b",
+        "android_client_info": {
+          "package_name": "com.example.gadaelectronics_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827421952722-c61sp2ad3br4vp8kl39t41lrjjca4q0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZhKhpwpCKgO-8vosX1yOhW-IUkaDd0fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827421952722-c61sp2ad3br4vp8kl39t41lrjjca4q0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827421952722:android:ea31fd0396195b75567b0b",
+        "android_client_info": {
+          "package_name": "com.example.gadaelectronics_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827421952722-jaa7t6b290gl6cfbcdfkt0qiodm9ddkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gadaelectronics_user",
+            "certificate_hash": "3295bd0f924ed851df2a548818ef87d90b79a56a"
+          }
+        },
+        {
+          "client_id": "827421952722-lftobioa812updh4nhf725k2f85ectku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gadaelectronics_user",
+            "certificate_hash": "4611ecb5e220c508f07bdade6d184da5b243ba21"
+          }
+        },
+        {
+          "client_id": "827421952722-c61sp2ad3br4vp8kl39t41lrjjca4q0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZhKhpwpCKgO-8vosX1yOhW-IUkaDd0fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827421952722-c61sp2ad3br4vp8kl39t41lrjjca4q0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
